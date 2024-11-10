@@ -1,4 +1,4 @@
-# kube-playground
+# kube
 
 ## Installation
 Tested on Fedora 41 workstation with 32GB RAM and 8CPU.
